@@ -1,0 +1,55 @@
+body
+{
+    background-color:  #9df9ef;
+    background-size: cover;
+}
+.gen {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    size: 50px;
+}
+.gen h1{
+    margin-bottom: 4%;
+    font-size: 70px;
+    color:black;
+    font-weight: bolder;
+}
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.btn {
+    margin-bottom: 50px; 
+    font-size: 28px; 
+    padding: 10px 20px; 
+    border-radius: 5px;
+    color:crimson;
+    background-color: aliceblue;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn1
+{
+    margin-bottom: 50px; 
+    font-size: 28px; 
+    padding: 10px 20px; 
+    border-radius: 5px;
+    color:blue;
+    background-color: aliceblue;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn1:hover
+{
+    background-color: rgb(20, 222, 88);
+}
+.btn:hover
+{
+    background-color: rgb(192, 212, 228);
+}
